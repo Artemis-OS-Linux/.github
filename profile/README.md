@@ -1,5 +1,8 @@
 ## Welcome to Artemis OS Linux!
 
+>[!WARNING]
+>This project is something I'm doing in my spare time and will take a long time to complete 
+
 Here are a couple of useful links to get you started 
 
 

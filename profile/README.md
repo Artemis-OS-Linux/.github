@@ -1,4 +1,4 @@
-## Welcome to Artemis OS Linux!
+# Welcome to Artemis OS Linux!
 
 > [!IMPORTANT]
 >This project is something I'm doing in my spare time. This may not be updated much. 
@@ -9,7 +9,7 @@ Here are a couple of useful links to get you started
 - [Website](https://artemis-os-linux.github.io/)
 - [Wiki](https://github.com/Artemis-OS-Linux/Artemis-OS/wiki)
 
-# About
+### About
 
 Artemis OS is a little project of mine, just something to do in my spare time and have fun doing it.
 The project is based on Arch Linux, and will essentially be a glorified Arch linux installer with some

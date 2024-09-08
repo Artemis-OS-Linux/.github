@@ -7,7 +7,13 @@ Here are a couple of useful links to get you started
 
 
 - [Website](https://artemis-os-linux.github.io/)
-- [Wiki](https://github.com/Artemis-OS-Linux/Artemis-OS/wiki) 
+- [Wiki](https://github.com/Artemis-OS-Linux/Artemis-OS/wiki)
+
+# About
+
+Artemis OS is a little project of mine, just something to do in my spare time and have fun doing it.
+The project is based on Arch Linux, and will essentially be a glorified Arch linux installer with some
+hand picked packages and some OS tweaks.
 
 
 <!--

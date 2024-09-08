@@ -1,7 +1,7 @@
 ## Welcome to Artemis OS Linux!
 
 > [!IMPORTANT]
->This project is something I'm doing in my spare time and will take a long time to complete 
+>This project is something I'm doing in my spare time. This may not be updated much. 
 
 Here are a couple of useful links to get you started 
 

@@ -8,7 +8,7 @@ Here are a couple of useful links to get you started
 
 - [Website](https://artemis-os-linux.github.io/)
 - [Wiki](https://github.com/Artemis-OS-Linux/Artemis-OS-Support/wiki)
-
+- [Issue Tracker](https://github.com/Artemis-OS-Linux/Artemis-OS-Support/issues)
 ### About
 
 Artemis OS is a little project of mine, just something to do in my spare time and have fun doing it.

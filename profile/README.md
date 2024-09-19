@@ -11,10 +11,8 @@ Here are a couple of useful links to get you started
 - [Issue Tracker](https://github.com/Artemis-OS-Linux/Artemis-OS-Support/issues)
 - [Discussions](https://github.com/orgs/Artemis-OS-Linux/discussions)
 ### About
-
 Artemis OS is a little project of mine, just something to do in my spare time and have fun doing it.
-The project is based on Arch Linux, and will essentially be a glorified Arch linux installer with some
-hand picked packages and some OS tweaks.
+The project is based on Arch Linux. This disto is designed for the people who enjoy stargazing and astrophotography.
 
 
 <!--
